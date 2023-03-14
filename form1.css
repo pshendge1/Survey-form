@@ -1,0 +1,22 @@
+#body{
+    background-image: linear-gradient(red, yellow);
+    background-size: 1900px 1000px;
+    background-repeat: no-repeat;
+}
+#img{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    left: 95px;
+}
+#pre{
+    text-align: center;
+    position:relative;
+    top: -250px;
+    font-weight: bolder;
+    font-size: 30px;
+
+    }
+#emo{
+    font-size: larger;
+}    
